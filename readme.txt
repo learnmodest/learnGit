@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes 2.
 Create a branch for example
 branch dev
+test dev
