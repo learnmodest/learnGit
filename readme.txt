@@ -3,4 +3,5 @@ Git is a free software.
 Git has a mutable index called stage.
 Git tracks changes 2.
 Create a branch for example
-Update file in branch named feature1
+branch dev
+
